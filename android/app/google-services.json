@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485055222449",
+    "project_id": "cpsc5250-hw5-6f036",
+    "storage_bucket": "cpsc5250-hw5-6f036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485055222449:android:c7636aafc73db9f6628890",
+        "android_client_info": {
+          "package_name": "com.example.homework_five"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXiYYCKAfzhJH25jGdAnmD65BDlyoqRWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
